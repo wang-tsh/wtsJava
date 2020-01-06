@@ -1,0 +1,7 @@
+GET https://httpbin.org/basic-auth/user/passwd
+Authorization: Basic user passwd
+
+<> 2019-12-27T111731.200.json
+
+###
+
