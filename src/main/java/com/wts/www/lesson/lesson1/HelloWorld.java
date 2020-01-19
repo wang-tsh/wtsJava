@@ -1,4 +1,4 @@
-package com.wts.www;
+package com.wts.www.lesson.lesson1;
 
 
 import lombok.extern.slf4j.Slf4j;
@@ -13,10 +13,6 @@ public  class HelloWorld
 
     public static void main(String[] args) {
         log.info("Hello every body");
-        int count = 5;
-        float price =1.5F;
-        float totle=count*price;
-        log.debug("totle is " +totle);
 
 
     }
